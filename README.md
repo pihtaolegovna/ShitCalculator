@@ -24,7 +24,7 @@
 1. Склонируйте репозиторий на свое устройство:
 
 ```shell
-git clone https://github.com/your-username/govno-calculator-v3.git
+git clone [(https://github.com/pihtaolegovna/shitCalculator.git)]
 ```
 
 2. Откройте проект в Xcode.
